@@ -8,11 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "pfs": {
-	"me": {
-		"applications": {
-			"EndUserSessionId": "7RmYDWtuZdydwjsBv5nkvG"
-		}
-	}
+  "pfs/me/applications": {
+	"EndUserSessionId": "7RmYDWtuZdydwjsBv5nkvG"
   }  
 }
